@@ -1,0 +1,45 @@
+@charset "UTF-8";
+body {
+	margin: 112.5px
+	
+	
+	
+	
+}
+header {
+    width: 800px;
+    height: 400px;
+    background-color: #2BC83D;
+    background-image: url(flag_of_brazeel.png);	
+	margin: auto
+}
+nav{
+	width: 800px;
+	height: 100px;
+	background-color: #2BC83D;
+	margin: auto
+	
+}
+ul {
+	width:750px;
+	height: 100px;
+	background-color: #2BC83D;
+	margin: auto;
+	display: inline
+	
+}
+main {
+	width: 600px;
+	height: 1000px;
+	background-color: #2BC83D;
+	float: left;
+	margin: auto
+	
+}
+aside {
+    width: 200px;
+    height: 1000px;
+    background-color: #133F05;
+	margin: auto;
+    float: left;
+}
